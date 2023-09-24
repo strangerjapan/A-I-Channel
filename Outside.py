@@ -95,10 +95,10 @@ https://github.com/IDEA-Research/DWPose
 /home/studio-lab-user/sagemaker-studiolab-notebooks/stable-diffusion-webui/extensions-builtin/sd-webui-controlnet/models/t2iadapter_seg_sd14v1.pth https://huggingface.co/nolanaatama/models/resolve/main/t2iadapter_seg_sd14v1.pth
 /home/studio-lab-user/sagemaker-studiolab-notebooks/stable-diffusion-webui/extensions-builtin/sd-webui-controlnet/models/t2iadapter_sketch_sd14v1.pth https://huggingface.co/nolanaatama/models/resolve/main/t2iadapter_sketch_sd14v1.pth
 /home/studio-lab-user/sagemaker-studiolab-notebooks/stable-diffusion-webui/extensions-builtin/sd-webui-controlnet/models/t2iadapter_style_sd14v1.pth https://huggingface.co/nolanaatama/models/resolve/main/t2iadapter_style_sd14v1.pth
-https://huggingface.co/lllyasviel/sd_control_collection/resolve/main/ip-adapter_sd15.pth
-https://huggingface.co/h94/IP-Adapter/resolve/main/models/ip-adapter-plus_sd15.bin
-https://huggingface.co/monster-labs/control_v1p_sd15_qrcode_monster/resolve/main/control_v1p_sd15_qrcode_monster.safetensors
-https://huggingface.co/monster-labs/control_v1p_sd15_qrcode_monster/resolve/main/control_v1p_sd15_qrcode_monster.yaml
+/home/studio-lab-user/sagemaker-studiolab-notebooks/stable-diffusion-webui/extensions-builtin/sd-webui-controlnet/models/ip-adapter_sd15.pth https://huggingface.co/lllyasviel/sd_control_collection/resolve/main/ip-adapter_sd15.pth
+/home/studio-lab-user/sagemaker-studiolab-notebooks/stable-diffusion-webui/extensions-builtin/sd-webui-controlnet/models/ip-adapter-plus_sd15.bin https://huggingface.co/h94/IP-Adapter/resolve/main/models/ip-adapter-plus_sd15.bin
+/home/studio-lab-user/sagemaker-studiolab-notebooks/stable-diffusion-webui/extensions-builtin/sd-webui-controlnet/models/control_v1p_sd15_qrcode_monster.safetensors https://huggingface.co/monster-labs/control_v1p_sd15_qrcode_monster/resolve/main/control_v1p_sd15_qrcode_monster.safetensors
+/home/studio-lab-user/sagemaker-studiolab-notebooks/stable-diffusion-webui/extensions-builtin/sd-webui-controlnet/models/control_v1p_sd15_qrcode_monster.yaml https://huggingface.co/monster-labs/control_v1p_sd15_qrcode_monster/resolve/main/control_v1p_sd15_qrcode_monster.yaml
 https://github.com/A-I-Channel/sdw-wd14-tagger
 https://github.com/fkunn1326/openpose-editor
 https://github.com/A-I-Channel/sd-openpose-editor-clone
